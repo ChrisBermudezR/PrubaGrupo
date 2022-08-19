@@ -1,2 +1,6 @@
-# PrubaGrupo
-En este repositorio se probarán los commit y los push
+# Prueba Grupo Sprint
+
+
+En este repositorio se probarán las funcionalidades de Git en un entorno colaborativo.
+
+
